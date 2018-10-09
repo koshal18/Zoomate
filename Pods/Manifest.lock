@@ -1,0 +1,58 @@
+PODS:
+  - Alamofire (4.7.2)
+  - CarbonKit (2.2.2)
+  - FAPanels (0.5.0)
+  - FloatRatingView (3.0)
+  - IQKeyboardManagerSwift (6.0.4)
+  - KRActivityIndicatorView (2.1.2)
+  - KRProgressHUD (3.2.2):
+    - KRActivityIndicatorView (= 2.1.2)
+  - SDWebImage (4.4.1):
+    - SDWebImage/Core (= 4.4.1)
+  - SDWebImage/Core (4.4.1)
+  - SwiftGifOrigin (1.6.1)
+  - SwiftyJSON (4.1.0)
+  - TwicketSegmentedControl (0.1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - CarbonKit
+  - FAPanels
+  - FloatRatingView
+  - IQKeyboardManagerSwift
+  - KRProgressHUD
+  - SDWebImage
+  - SwiftGifOrigin
+  - SwiftyJSON
+  - TwicketSegmentedControl
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - CarbonKit
+    - FAPanels
+    - FloatRatingView
+    - IQKeyboardManagerSwift
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - SDWebImage
+    - SwiftGifOrigin
+    - SwiftyJSON
+    - TwicketSegmentedControl
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  CarbonKit: 0dec4738fa489b4c043a5f850c27fd0dbefb57cc
+  FAPanels: def3b6e1e407ea1d1198d1acddc9d855d9e418ec
+  FloatRatingView: 0f7b45733124516ac6b8f535e5b5f4fa2e122180
+  IQKeyboardManagerSwift: 36dbe324b4f9793f5f41ba5227f3e7c76dfefd50
+  KRActivityIndicatorView: 27e7a7e3da7fbc8e5405fbc4088b51cc2095a410
+  KRProgressHUD: 8872da74b1c462e15c82a8fff250a2d34ee82ea2
+  SDWebImage: 47e9b5b925cbce75946c23f0c42dd19464189af4
+  SwiftGifOrigin: d6679d3ebe9df2e049a84bc52582635107b581f6
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  TwicketSegmentedControl: 6d7a4cf243657e0ac3f00d06d873a25334c04042
+
+PODFILE CHECKSUM: 54fcf628a73227e4175c851b6f1e3ee47a7f3d3e
+
+COCOAPODS: 1.5.0

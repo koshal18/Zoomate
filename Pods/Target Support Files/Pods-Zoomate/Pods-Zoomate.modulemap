@@ -1,0 +1,6 @@
+framework module Pods_Zoomate {
+  umbrella header "Pods-Zoomate-umbrella.h"
+
+  export *
+  module * { export * }
+}
